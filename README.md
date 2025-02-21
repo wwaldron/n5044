@@ -109,7 +109,7 @@ updated.
 1. [NED Downloader](Data/NED/NED_InfoDownloader.ipynb)
 1. [GAIA Downloader](Data/GAIA/GAIA_Downloader.ipynb)
 1. [CRDS Updater](Images/update_crds.sh)
-1. [Cosmic Ray (CR) Remover](Images/DeepCR-Remover.ipynb)
+1. [Cosmic Ray (CR) Remover](Images/CR-Remover.ipynb)
 1. [Image Reducer](Images/ImageReducer.ipynb)
 1. [NaN Pixel Inpainter](Images/ProcessedImages/HST/PythonNotebooks/DrizzledInpainter.ipynb)
 1. [Photometry Checker](Images/ProcessedImages/HST/PythonNotebooks/PhotometryChecker.ipynb)
